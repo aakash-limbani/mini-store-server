@@ -6,7 +6,6 @@ const cors = require('cors');
 
 app.use(express.json());
 
-app.use(cors());
 
 const { Signup, Login } = require('./controllers/auth.controller');
 const productController = require("./controllers/product.controller");
@@ -17,6 +16,7 @@ const couponController = require("./controllers/coupon.controller");
 const addressController = require("./controllers/address.controller");
 const orderController = require("./controllers/order.controller");
 
+app.use(cors());
 app.post("/signup", Signup);
 
 app.post("/login", Login);

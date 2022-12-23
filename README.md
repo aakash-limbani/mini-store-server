@@ -14,7 +14,7 @@
     <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" alt="mongodb"/>
 </p>
 
-<h3 align="center"><a href="https://aakash-limbani-ministore-server.vercel.app/"><strong>Want to see live preview »</strong></a></h3>
+<h3 align="center"><a href="https://aakash-limbani-ministore-frontend.vercel.app/"><strong>Want to see live preview »</strong></a></h3>
 
 <p align="center"> 
     <br />&#10023;
@@ -106,7 +106,7 @@ This project was built using React v 17.0.2, Redux v 4.1.1, Chakra UI, CSS, Java
 ### Setup
 
 
-The project repository can be found in [GitHub link](https://github.com/aakash-limbani/Mini-Store) or just clone the project using this command. 
+The project repository can be found in [GitHub link](https://github.com/aakash-limbani/mini-store-backend) or just clone the project using this command. 
 
 
 ```
